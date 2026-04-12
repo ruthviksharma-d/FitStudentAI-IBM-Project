@@ -14,3 +14,12 @@ This project is developed as part of the IBM SkillsBuild / Internship program, f
 - 💡 User-friendly interface  
 
 ---
+
+## 🛠️ Technologies Used
+- Python  
+- Flask / Web Framework  
+- Machine Learning (AI Models)  
+- HTML, CSS, JavaScript  
+- IBM Cloud (optional integration)  
+
+---
