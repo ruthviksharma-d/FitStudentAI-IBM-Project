@@ -69,3 +69,10 @@ Students often struggle to maintain fitness due to busy schedules. FitStudentAI 
 - Tracking progress intelligently  
 
 ---
+## 📈 Future Enhancements
+- 📱 Mobile app integration  
+- 🧬 Advanced AI personalization  
+- 🔗 Wearable device integration  
+- ☁️ Full IBM Cloud deployment  
+
+---
