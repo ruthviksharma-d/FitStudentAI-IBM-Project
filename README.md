@@ -85,3 +85,8 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 This project is licensed under the MIT License.
 
 ---
+## 👨‍💻 Author
+**Ruthvik Sharma**  
+GitHub: https://github.com/ruthviksharma-d
+
+---
