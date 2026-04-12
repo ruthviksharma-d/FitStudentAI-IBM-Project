@@ -55,7 +55,15 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+---
 
+## 🎯 Use Case
+Students often struggle to maintain fitness due to busy schedules. FitStudentAI solves this by:
+- Providing quick and effective workout plans  
+- Suggesting healthy diets  
+- Tracking progress intelligently  
+
+---
 5. Open in browser:
 ```
 http://127.0.0.1:5000/
