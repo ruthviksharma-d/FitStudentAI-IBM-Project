@@ -90,3 +90,11 @@ This project is licensed under the MIT License.
 GitHub: https://github.com/ruthviksharma-d
 
 ---
+## 🙌 Acknowledgements
+- IBM SkillsBuild  
+- Open-source community  
+- Mentors and contributors  
+
+---
+
+⭐ If you like this project, give it a star!
