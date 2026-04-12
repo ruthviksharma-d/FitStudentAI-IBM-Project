@@ -6,3 +6,11 @@ FitStudentAI is an AI-powered fitness assistant designed specifically for studen
 This project is developed as part of the IBM SkillsBuild / Internship program, focusing on applying AI and data-driven solutions to real-world problems.
 
 ---
+## 🚀 Features
+- 🧠 AI-based fitness recommendations  
+- 🥗 Personalized diet suggestions  
+- 📊 Activity and progress tracking  
+- 🎯 Goal setting for fitness improvement  
+- 💡 User-friendly interface  
+
+---
