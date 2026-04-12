@@ -23,3 +23,15 @@ This project is developed as part of the IBM SkillsBuild / Internship program, f
 - IBM Cloud (optional integration)  
 
 ---
+## 📂 Project Structure
+```
+FitStudentAI-IBM-Project/
+│── static/            # CSS, JS, images
+│── templates/         # HTML files
+│── models/            # ML models (if any)
+│── app.py             # Main application file
+│── requirements.txt   # Dependencies
+│── README.md          # Project documentation
+```
+
+---
